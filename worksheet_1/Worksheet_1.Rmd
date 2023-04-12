@@ -117,7 +117,7 @@ my_new_obj <- "orange"
 num_1 <- 1
 num_2 <- 2
 num_add <- num_1 + num_2
-num_add
+num_add 
 ```
 
 (4) Look at your workspace, and remove one of your new objects.
